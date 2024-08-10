@@ -15,7 +15,9 @@ Barcelona<br>
 Olympiada<br>
 Chariots of Fire<br>
 <br>
+
 ---
+
 <br>
 
 **Saturday 27th April 2024 – RNCM (evening)**
@@ -28,7 +30,9 @@ Sinfonietta (Janacek)<br>
 Suite in Eb<br>
 Doyen<br>
 <br>
+
 ---
+
 <br>
 
 **Saturday 9th December 2023 - Holy Innocents Church, Fallowfield**
