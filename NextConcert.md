@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Next Concert"
-permalink: /NextConcert
+permalink: /nextconcert
 ---
 Our Next Concert may be wonderful.

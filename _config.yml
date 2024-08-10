@@ -30,6 +30,7 @@ facebook_username: ManchesterWindOrchestra
 header_pages:
   - About.md
   - NextConcert.md
+  - JoinUs.md
 
 # Build settings
 theme: minima

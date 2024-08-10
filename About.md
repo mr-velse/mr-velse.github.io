@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "About"
-permalink: /About
+permalink: /about
 ---
 Manchester Wind Orchestra is a Wind Orchestra, in Manchester.
