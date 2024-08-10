@@ -28,6 +28,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 facebook_username: ManchesterWindOrchestra
 
+header_pages:
+  - About.md
+  - NextConcert.md
+
 # Build settings
 theme: minima
 plugins:
