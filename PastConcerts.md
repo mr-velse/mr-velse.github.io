@@ -3,7 +3,9 @@ layout: page
 title: "Past Concerts"
 permalink: /pastconcerts
 ---
+
 **Saturday 20th July 2024 - Holy Innocents Church, Fallowfield**
+
 Olympic Fanfare and Theme
 An American In Paris
 American Games
@@ -15,7 +17,9 @@ Chariots of Fire
 
 ---
 
+
 **Saturday 27th April 2024 – RNCM (evening)**
+
 Anniversary Overture
 Sinfonietta (Wiffin)
 Piano Concerto
@@ -26,7 +30,9 @@ Doyen
 
 ---
 
+
 **Saturday 9th December 2023 - Holy Innocents Church, Fallowfield**
+
 Hansel and Gretel Overture
 Let The Bells Ring
 The Snowman
